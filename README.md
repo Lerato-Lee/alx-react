@@ -1,6 +1,6 @@
 ## alx-react
 
-## DIRECTORIES :file_folder:
+## DIRECTORIES :file-folder:
 
 - [0x00-Webpack](0x00-Webpack)
 - [0x01-react_intro](0x01-react_intro)
